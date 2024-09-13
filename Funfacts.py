@@ -32,3 +32,6 @@ if Word == 6:
    {
   print("Currently, Linux holds 4.4% of the OS market share!")   
 }
+
+import time
+time.sleep(1000)
