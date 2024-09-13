@@ -30,5 +30,5 @@ if Word == 5:
   
 if Word == 6:
    {
-  print("Currently, Linux holds 4.4% of the OS market shart!")   
+  print("Currently, Linux holds 4.4% of the OS market share!")   
 }
